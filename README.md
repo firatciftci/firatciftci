@@ -1,17 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="river-dark.svg">
-  <img src="river-light.svg" alt="The Euphrates, drawn as a river from two headwaters" width="100%">
+  <img src="river-light.svg" alt="I’m Firat Ciftci, and I tell stories with data. Fırat is Turkish for the Euphrates, drawn as a river carrying its name in six languages." width="100%">
 </picture>
 
-### Hi, I’m Firat Ciftci.
-
-I build websites for dictionaries, archives, and maps. I work at the [University of Chicago](https://digitalculture.uchicago.edu) and on the Nişanyan dictionaries of Turkish, and I live in Brooklyn. Fırat is Turkish for the Euphrates.
+I design and build the websites those stories live in, which so far has meant dictionaries, archives, and maps. I work at the [University of Chicago](https://digitalculture.uchicago.edu) and on the Nişanyan dictionaries of Turkish, and I live in Brooklyn.
 
 **Down the river**
 
-- [**Every Dog in New York**](https://everydog.nyc): all 96,459 licensed dogs in New York City, split from ZIP codes into 197 neighborhoods.
-- [**Nişanyan Sözlük**](https://www.nisanyansozluk.com): the etymological dictionary of Turkish. I build and run the website, its iPhone and Android apps, and its editors’ panel, along with [Yeradları](https://www.nisanyanyeradlari.com), [Adlar](https://www.nisanyanadlar.com), and the rest of the nine Nişanyan sites.
-- [**OCHRE**](https://ochre.uchicago.edu): I lead the platform that turns the University of Chicago’s research database into websites, among them [Ottoman Inscriptions](https://ochre.uchicago.edu/ottoman-inscriptions) and [Cinemetrics](https://cinemetrics.uchicago.edu).
+- [Every Dog in New York](https://everydog.nyc), all 96,459 licensed dogs in New York City, by neighborhood
+- [Nişanyan Sözlük](https://www.nisanyansozluk.com), the etymological dictionary of Turkish, with its sister sites for [place names](https://www.nisanyanyeradlari.com) and [given names](https://www.nisanyanadlar.com)
+- [OCHRE](https://ochre.uchicago.edu) websites at the University of Chicago, among them [Ottoman Inscriptions](https://ochre.uchicago.edu/ottoman-inscriptions) and [Cinemetrics](https://cinemetrics.uchicago.edu)
 
 **Smaller streams**
 
