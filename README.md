@@ -3,7 +3,7 @@
   <img src="river-light.svg" alt="The Euphrates, drawn as a river from two headwaters" width="100%">
 </picture>
 
-### Hi, I’m Fırat Çiftçi.
+### Hi, I’m Firat Ciftci.
 
 I build websites for dictionaries, archives, and maps. I work at the [University of Chicago](https://digitalculture.uchicago.edu) and on the Nişanyan dictionaries of Turkish, and I live in Brooklyn. Fırat is Turkish for the Euphrates.
 
@@ -20,4 +20,4 @@ I build websites for dictionaries, archives, and maps. I work at the [University
 - [`eslint-plugin-inline-utilities`](https://github.com/firatciftci/eslint-plugin-inline-utilities), which keeps utility classes on the element they style
 - Fixes upstream in [Knip](https://github.com/webpro-nl/knip), [OpenSeadragon](https://github.com/openseadragon/openseadragon), [svelte-maplibre](https://github.com/dimfeld/svelte-maplibre), [taze](https://github.com/antfu-collective/taze), and [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
-Most of my work lives in private repositories. Write to me at [firat@firatciftci.com](mailto:firat@firatciftci.com), or see more at [firatciftci.com](https://www.firatciftci.com).
+Most of my work lives in private repositories. See more at [firatciftci.com](https://www.firatciftci.com).
