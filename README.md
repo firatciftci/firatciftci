@@ -3,7 +3,7 @@
   <img src="river-light.svg" alt="I’m Firat Ciftci, and I tell stories with data. Fırat is Turkish for the Euphrates, drawn as a river carrying its name in seven languages." width="100%">
 </picture>
 
-I design and build the websites those stories live in, which so far has meant dictionaries, archives, and maps. I work at the [University of Chicago](https://digitalculture.uchicago.edu) and on the Nişanyan dictionaries of Turkish, and I live in Brooklyn.
+I have built dictionaries of Turkish, archives at the [University of Chicago](https://digitalculture.uchicago.edu), and a map of every licensed dog in New York. I live in Brooklyn.
 
 **Down the river**
 
