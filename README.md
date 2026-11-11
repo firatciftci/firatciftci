@@ -15,6 +15,7 @@ I have built a [record of elections](https://electionsarchive.com) across ten co
 
 **Smaller streams**
 
+- [Fullstop](https://github.com/firatciftci/fullstop), a macOS menu bar app that stops your Mac from charging past a limit you choose, so a battery that stays plugged in all day lasts longer
 - [Segue](https://github.com/firatciftci/segue), a macOS menu bar app for switching input sources, with a shortcut for each one and rules that switch for you in each app or website
 - [Daybar](https://github.com/firatciftci/daybar), a macOS menu bar app for your calendar and reminders, where you type an event the way you would say it
 - [`svelte-islands`](https://github.com/firatciftci/svelte-islands), a SvelteKit library that loads heavy page data only when the part of the page that uses it scrolls into view, built for Elections Archive
